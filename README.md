@@ -1,0 +1,1 @@
+# Firebase-error-auth-invalid-app-credential-----fix
